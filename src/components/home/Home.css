@@ -3,9 +3,8 @@
 }
 
 .App-logo {
-  width: 80%;
+  width: 65%;
   pointer-events: none;
-  padding: 5%;
 }
 
 .App-center {
@@ -23,8 +22,8 @@
   width: 35vw;
 }
 
-@media screen and (min-width:1200px) {
-  .App-logo {
-    width: 60%;
+@media screen and (max-width:599px) {
+  .hide-row {
+    display: none;
   }
 }

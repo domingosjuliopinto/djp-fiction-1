@@ -3,7 +3,7 @@ import './Storymode.css';
 function Storymode() {
   return (
     <div>
-    <h1>Story Mode</h1>
+    <h1>Play Story</h1>
     </div>
   );
 }
