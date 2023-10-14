@@ -1,1 +1,25 @@
+.vertical-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
 
+@media only screen and (max-width: 999px) {
+    .adjust {
+        width: 25em;
+    }
+}
+
+@media only screen and (max-width: 402px) {
+    .adjust {
+        width: 20em;
+    }
+}
+
+@media only screen and (max-width: 321px) {
+    .adjust {
+        width: 15em;
+    }
+}

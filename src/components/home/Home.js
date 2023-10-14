@@ -19,11 +19,12 @@ function Home() {
         <Col lg={6} md={6} sm={6}><Link to="/custombouts"><Button variant="outline-primary" size="lg" className='my-button'>Custom Bouts</Button></Link></Col>
       </Row>
       <Row>
-      <Col lg={6} md={6} sm={6} xs={12}><Link to="/djp-fiction-1/fullstory"><Button variant="outline-primary" size="lg" className='my-button'>Read Story</Button></Link></Col>
-      <Col lg={6} md={6} sm={6} xs={12}><Link to="/characters"><Button variant="outline-primary" size="lg" className='my-button'>Characters</Button></Link></Col>
+        <Col lg={6} md={6} sm={6} xs={12}><Link to="/djp-fiction-1/fullstory"><Button variant="outline-primary" size="lg" className='my-button'>Read Story</Button></Link></Col>
+        <Col lg={6} md={6} sm={6} xs={12}><Link to="/characters"><Button variant="outline-primary" size="lg" className='my-button'>Characters</Button></Link></Col>
       </Row>
       <Row>
-        <Col><Link to="/about"><Button variant="outline-primary" size="lg" className='my-button'>About</Button></Link></Col>
+        <Col lg={6} md={6} sm={6}><Link to="/extras"><Button variant="outline-primary" size="lg" className='my-button'>Extras</Button></Link></Col>
+        <Col lg={6} md={6} sm={6}><Link to="/about"><Button variant="outline-primary" size="lg" className='my-button'>About</Button></Link></Col>
       </Row>
     </Container>
   );
