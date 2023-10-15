@@ -1,1 +1,17 @@
+.width-adjust {
+    width: 70%;
+}
 
+.caption-black{
+    color: #000000;
+}
+
+.card-width{
+    width: 28rem;
+}
+
+@media only screen and (max-width: 321px) {
+    .card-width {
+        width: 18em;
+    }
+}

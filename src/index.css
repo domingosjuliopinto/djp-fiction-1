@@ -8,5 +8,13 @@ body {
   color: white;
 }
 
+.vertical-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
 /*Bootstrap*/
 @import url("../node_modules/bootstrap/dist/css/bootstrap.min.css");

@@ -1,6 +1,7 @@
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import { Link } from 'react-router-dom';
 
 import './Characters.css';
 
@@ -15,7 +16,6 @@ import VaitShinBoroventiaGym from './Vait Shin/Vait Shin - Boroventia Gym (landi
 
 // Gaayi Barbooza (NLhack)
 import GaayiBarboozaNLhack from './Gaayi Barbooza (NLhack)/Gaayi Barbooza - NLhack (landing).png'
-import { Link } from 'react-router-dom';
 
 function Characters() {
   return (
@@ -44,7 +44,7 @@ function Characters() {
         </Link>
       </Col>
     </Row>
-  </Container>
+    </Container>
     </div>
   );
 }
