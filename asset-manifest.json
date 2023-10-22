@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/djp-fiction-1/static/css/main.d463ee73.css",
-    "main.js": "/djp-fiction-1/static/js/main.22cebd04.js",
+    "main.js": "/djp-fiction-1/static/js/main.7d67d862.js",
     "static/js/787.970eaa19.chunk.js": "/djp-fiction-1/static/js/787.970eaa19.chunk.js",
     "static/media/Boroventia Road.jpg": "/djp-fiction-1/static/media/Boroventia Road.eb1c793b68268b0844dc.jpg",
     "static/media/Boroventia Gym.jpg": "/djp-fiction-1/static/media/Boroventia Gym.d719cf0493bb9749c54b.jpg",
@@ -21,11 +21,11 @@
     "static/media/logo.svg": "/djp-fiction-1/static/media/logo.92369ca15ed9cd82a9167e73b5f5b079.svg",
     "index.html": "/djp-fiction-1/index.html",
     "main.d463ee73.css.map": "/djp-fiction-1/static/css/main.d463ee73.css.map",
-    "main.22cebd04.js.map": "/djp-fiction-1/static/js/main.22cebd04.js.map",
+    "main.7d67d862.js.map": "/djp-fiction-1/static/js/main.7d67d862.js.map",
     "787.970eaa19.chunk.js.map": "/djp-fiction-1/static/js/787.970eaa19.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d463ee73.css",
-    "static/js/main.22cebd04.js"
+    "static/js/main.7d67d862.js"
   ]
 }
