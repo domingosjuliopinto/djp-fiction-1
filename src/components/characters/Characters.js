@@ -38,11 +38,11 @@ function Characters() {
           <img src={VaitShinBoroventiaGym} alt='Vait Shin - Boroventia Gym'/>
         </Link>
       </Col>
-      <Col>
+      {/*<Col>
         <Link to="/characters/Gaayi-Barbooza-(NLhack)">
           <img src={GaayiBarboozaNLhack} alt='Gaayi Barbooza - NLhack'/>
         </Link>
-      </Col>
+      </Col>*/}
     </Row>
     </Container>
     </div>
