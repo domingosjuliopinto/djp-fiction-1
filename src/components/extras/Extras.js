@@ -20,8 +20,8 @@ import ryushShinBGConcept from '../characters/Concept-Art/Ryush Shin/Ryush Shin 
 // Vait Shin
 import vaitShinBGConcept from '../characters/Concept-Art/Vait Shin/Vait Shin - Boroventia Gym (Concept).jpg'
 
-// Gaayi Barbooza
-import gaayiBarboozaNLhConcept from  '../characters/Concept-Art/Gaayi Barbooza (NLhack)/Gaayi Barbooza - NLhack (Concept).jpg'
+// Aayi Barbooza
+import aayiBarboozaNLhConcept from  '../characters/Concept-Art/Aayi Barbooza (NLhack)/Aayi Barbooza - NLhack (Concept).jpg'
 
 // Game Location
 import boroventiaGym from '../../utilities/game-locations/Boroventia Gym.jpg'
@@ -127,10 +127,10 @@ function Extras() {
         <Row>
           <Carousel interval={null}>
             <Carousel.Item>
-              <img src={gaayiBarboozaNLhConcept} alt='Gaayi Barbooza - NLhack (Concept)' />
+              <img src={aayiBarboozaNLhConcept} alt='Aayi Barbooza - NLhack (Concept)' />
                 <Carousel.Caption className='caption-black'>
                   <h4>NLhack (Concept)</h4>
-                  <h5>Gaayi Barbooza</h5>
+                  <h5>Aayi Barbooza</h5>
                 </Carousel.Caption>
             </Carousel.Item>
           </Carousel>

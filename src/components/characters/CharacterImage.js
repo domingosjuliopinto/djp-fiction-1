@@ -5,7 +5,7 @@ import CharacterPath from '../../utilities/CharacterPath';
 import sundayPrian from './Sunday Prian/Sunday Prian - Boroventia Gym (detail).png'
 import ryushShin from './Ryush Shin/Ryush Shin - Boroventia Gym (detail).png'
 import vaitShin from './Vait Shin/Vait Shin - Boroventia Gym (detail).png'
-import gaayiBarbooza from './Gaayi Barbooza (NLhack)/Gaayi Barbooza - NLhack (detail).png'
+import aayiBarbooza from './Aayi Barbooza (NLhack)/Aayi Barbooza - NLhack (detail).png'
 
 function CharacterImage() {
     const CharacterName = CharacterPath();
@@ -21,9 +21,9 @@ function CharacterImage() {
     }else if(CharacterName==="Vait Shin"){
         ImageCharacter=vaitShin;
         AltCharacter = 'Vait Shin - Boroventia Gym'
-    }else if(CharacterName==="Gaayi Barbooza (NLhack)"){
-        ImageCharacter=gaayiBarbooza;
-        AltCharacter = 'Gaayi Barbooza - NLhack'
+    }else if(CharacterName==="Aayi Barbooza (NLhack)"){
+        ImageCharacter=aayiBarbooza;
+        AltCharacter = 'Aayi Barbooza - NLhack'
     }
 
     return (

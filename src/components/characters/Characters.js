@@ -14,8 +14,8 @@ import RyushShinBoroventiaGym from './Ryush Shin/Ryush Shin - Boroventia Gym (la
 // Vait Shin
 import VaitShinBoroventiaGym from './Vait Shin/Vait Shin - Boroventia Gym (landing).png'
 
-// Gaayi Barbooza (NLhack)
-import GaayiBarboozaNLhack from './Gaayi Barbooza (NLhack)/Gaayi Barbooza - NLhack (landing).png'
+// Aayi Barbooza (NLhack)
+import AayiBarboozaNLhack from './Aayi Barbooza (NLhack)/Aayi Barbooza - NLhack (landing).png'
 
 function Characters() {
   return (
@@ -39,8 +39,8 @@ function Characters() {
         </Link>
       </Col>
       {/*<Col>
-        <Link to="/characters/Gaayi-Barbooza-(NLhack)">
-          <img src={GaayiBarboozaNLhack} alt='Gaayi Barbooza - NLhack'/>
+        <Link to="/characters/Aayi-Barbooza-(NLhack)">
+          <img src={AayiBarboozaNLhack} alt='Aayi Barbooza - NLhack'/>
         </Link>
       </Col>*/}
     </Row>

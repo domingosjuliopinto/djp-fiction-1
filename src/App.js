@@ -28,7 +28,7 @@ function App() {
         <Route path='/characters/Sunday-Prian' element={<CharacterDetails />} />
         <Route path='/characters/Ryush-Shin' element={<CharacterDetails />} />
         <Route path='/characters/Vait-Shin' element={<CharacterDetails />} />
-        <Route path='/characters/Gaayi-Barbooza-(NLhack)' element={<CharacterDetails />} />
+        <Route path='/characters/Aayi-Barbooza-(NLhack)' element={<CharacterDetails />} />
       </Route>
 
     )
