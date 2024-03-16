@@ -122,7 +122,7 @@ function Extras() {
             </Carousel.Item>
           </Carousel>
           </Col>
-        </Row>{/*
+        </Row>
         <br/>
         <Row>
           <Carousel interval={null}>
@@ -134,7 +134,7 @@ function Extras() {
                 </Carousel.Caption>
             </Carousel.Item>
           </Carousel>
-  </Row>*/}
+        </Row>
         </Container>
       </div>
 

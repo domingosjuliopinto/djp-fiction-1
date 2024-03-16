@@ -12,7 +12,7 @@ function About() {
         <h5>
           <p>This game/story is completely free. This game/story site was created so that i could learn new stuff in web development and merge with my past hobbies.</p>
           <p>The game/story storyline has fictitious plot and incidents. The characters and their names are fictitious too. In case (which will happen very rarely), if any character’s name is related to anyone’s real name in real life, it’s just a co-incident. Dialogues in the game/story, do not intent to hurt the sentiments of any real-life individuals.</p>
-        </h5> <h6>I HAVE A HUMBLE REQUEST: If you plan to use any of our characters' names, please do give credits. Even do send me your creation, I would like to read/see how my character is used</h6>
+        </h5> <h6>I HAVE A HUMBLE REQUEST: If you plan to use any of our characters, please do give credits and send us your creation</h6>
         <br />
         <h3>Objectives for the creation of this site</h3>
           <h5>To learn React.js</h5>
