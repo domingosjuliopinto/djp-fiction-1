@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/djp-fiction-1/static/css/main.d463ee73.css",
-    "main.js": "/djp-fiction-1/static/js/main.42356901.js",
+    "main.css": "/djp-fiction-1/static/css/main.ff113f1a.css",
+    "main.js": "/djp-fiction-1/static/js/main.8dadb755.js",
     "static/js/787.970eaa19.chunk.js": "/djp-fiction-1/static/js/787.970eaa19.chunk.js",
     "static/media/Boroventia Road.jpg": "/djp-fiction-1/static/media/Boroventia Road.eb1c793b68268b0844dc.jpg",
     "static/media/Boroventia Gym.jpg": "/djp-fiction-1/static/media/Boroventia Gym.d719cf0493bb9749c54b.jpg",
     "static/media/character-art.jpg": "/djp-fiction-1/static/media/character-art.733f041dcfe80f4d7c13.jpg",
     "static/media/Aayi Barbooza - NLhack (detail).png": "/djp-fiction-1/static/media/Aayi Barbooza - NLhack (detail).519c026ffe601bca38fb.png",
+    "static/media/back-arrow.png": "/djp-fiction-1/static/media/back-arrow.3f95232e26fe1a042baf.png",
     "static/media/Aayi Barbooza - NLhack (landing).png": "/djp-fiction-1/static/media/Aayi Barbooza - NLhack (landing).b6cc117288a4825a177f.png",
     "static/media/Sunday Prian - Boroventia Gym (detail).png": "/djp-fiction-1/static/media/Sunday Prian - Boroventia Gym (detail).3dfc61acb5025df52e8d.png",
     "static/media/Sunday Prian - Boroventia Gym (Concept).jpg": "/djp-fiction-1/static/media/Sunday Prian - Boroventia Gym (Concept).c24fbdc4465973c3ddba.jpg",
     "static/media/Ryush Shin - Boroventia Gym (detail).png": "/djp-fiction-1/static/media/Ryush Shin - Boroventia Gym (detail).5684519abd0f86acb071.png",
     "static/media/Aayi Barbooza - NLhack (Concept).jpg": "/djp-fiction-1/static/media/Aayi Barbooza - NLhack (Concept).05ae72ef633dea1461a0.jpg",
+    "static/media/left-arrow.png": "/djp-fiction-1/static/media/left-arrow.93cc3431bf4b15b87a05.png",
+    "static/media/right-arrow.png": "/djp-fiction-1/static/media/right-arrow.83bf5b2ac122190e8f24.png",
     "static/media/Vait Shin - Boroventia Gym (detail).png": "/djp-fiction-1/static/media/Vait Shin - Boroventia Gym (detail).668b9e3d1b4602f78f54.png",
     "static/media/Ryush Shin - Boroventia Gym (Concept).jpg": "/djp-fiction-1/static/media/Ryush Shin - Boroventia Gym (Concept).41f3b7999081033e9146.jpg",
     "static/media/Vait Shin - Boroventia Gym (Concept).jpg": "/djp-fiction-1/static/media/Vait Shin - Boroventia Gym (Concept).c80abb5d0edfbd79e710.jpg",
@@ -19,14 +22,17 @@
     "static/media/Ryush Shin - Boroventia Gym (landing).png": "/djp-fiction-1/static/media/Ryush Shin - Boroventia Gym (landing).3beb33c4e6375130c4ee.png",
     "static/media/Vait Shin - Boroventia Gym (landing).png": "/djp-fiction-1/static/media/Vait Shin - Boroventia Gym (landing).87d1e595d2ed60a8d2bb.png",
     "static/media/logo.svg": "/djp-fiction-1/static/media/logo.92369ca15ed9cd82a9167e73b5f5b079.svg",
+    "static/media/Chapter2.txt": "/djp-fiction-1/static/media/Chapter2.aa3b7d30398c94ffabd3.txt",
+    "static/media/Chapter3.txt": "/djp-fiction-1/static/media/Chapter3.8c1a51d9dc2db1758a79.txt",
+    "static/media/Chapter1.txt": "/djp-fiction-1/static/media/Chapter1.e56093a16aff9028bd11.txt",
     "index.html": "/djp-fiction-1/index.html",
     "static/media/Title.txt": "/djp-fiction-1/static/media/Title.ee48bbdcd911dc694295.txt",
-    "main.d463ee73.css.map": "/djp-fiction-1/static/css/main.d463ee73.css.map",
-    "main.42356901.js.map": "/djp-fiction-1/static/js/main.42356901.js.map",
+    "main.ff113f1a.css.map": "/djp-fiction-1/static/css/main.ff113f1a.css.map",
+    "main.8dadb755.js.map": "/djp-fiction-1/static/js/main.8dadb755.js.map",
     "787.970eaa19.chunk.js.map": "/djp-fiction-1/static/js/787.970eaa19.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d463ee73.css",
-    "static/js/main.42356901.js"
+    "static/css/main.ff113f1a.css",
+    "static/js/main.8dadb755.js"
   ]
 }
