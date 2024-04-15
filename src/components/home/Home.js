@@ -12,7 +12,7 @@ function Home() {
       <div className='App-header Vertical-align'>
         <Container>
           <Row>
-            <Col> <img src={logo} className="App-logo" alt="logo" /></Col>
+            <Col><img src={logo} className="App-logo" alt="logo" /></Col>
           </Row>
           <br></br>
           <Row>
