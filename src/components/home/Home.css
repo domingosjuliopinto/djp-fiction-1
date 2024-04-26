@@ -4,15 +4,16 @@
   
 .App-logo {
     pointer-events: none;
-    width: 100%;
+    width:fit-content;
+    height:inherit;
   }
 
 .bg{
     background-image: url(../../utils/while_loading/logo.png);
-    background-size: cover;
+    background-size:contain;
     background-repeat: no-repeat;
-    background-position: -7px;
-    width: max(38vh,59%);
+    background-position: center;
+    height: max(20vw,16vh);
     margin-left: auto;
     margin-right: auto;
   }

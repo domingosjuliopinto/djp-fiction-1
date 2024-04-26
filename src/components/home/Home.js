@@ -1,12 +1,11 @@
 import logo from '../../logo.svg';
 import './Home.css';
 
+import HomeButton from './HomeButton';
+
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import Button from 'react-bootstrap/Button';
-
-import { Link } from 'react-router-dom';
 
 function Home() {
   return (
@@ -19,36 +18,18 @@ function Home() {
           <br></br>
           <Row>
             <Col>
-              <Link to="/readstory">
-                <div className="mb-2 d-grid gap-2">
-                  <Button variant="outline-primary" size="lg">
-                    Read Story
-                  </Button>
-                </div>
-              </Link>
+              <HomeButton to="/readstory" text="Read Story"/>
             </Col>
             <Col>
-              <div className="mb-2 d-grid gap-2">
-                <Button variant="outline-primary" size="lg">
-                  Characters
-                </Button>
-              </div>
+              <HomeButton to="/test" text="Characters"/>
             </Col>
           </Row>
           <Row>
-          <Col>
-              <div className="mb-2 d-grid gap-2">
-                <Button variant="outline-primary" size="lg">
-                  Extras
-                </Button>
-              </div>
+            <Col>
+              <HomeButton to="/test1" text="Extras"/>
             </Col>
             <Col>
-              <div className="mb-2 d-grid gap-2">
-                <Button variant="outline-primary" size="lg">
-                  About
-                </Button>
-              </div>
+              <HomeButton to="/test2" text="About"/>
             </Col>
           </Row>
         </Container>
