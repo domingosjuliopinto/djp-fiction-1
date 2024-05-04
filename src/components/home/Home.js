@@ -18,18 +18,26 @@ function Home() {
           <br></br>
           <Row>
             <Col>
-              <HomeButton to="/readstory" text="Read Story"/>
+              <HomeButton to="/playstory" text="Play Story"/>
             </Col>
             <Col>
-              <HomeButton to="/test" text="Characters"/>
+              <HomeButton to="/custom-bout" text="Custom Bout"/>
             </Col>
           </Row>
           <Row>
             <Col>
-              <HomeButton to="/test1" text="Extras"/>
+              <HomeButton to="/readstory" text="Read Story"/>
             </Col>
             <Col>
-              <HomeButton to="/test2" text="About"/>
+              <HomeButton to="/characters" text="Characters"/>
+            </Col>
+          </Row>
+          <Row>
+            <Col>
+              <HomeButton to="/extras" text="Extras"/>
+            </Col>
+            <Col>
+              <HomeButton to="/about" text="About"/>
             </Col>
           </Row>
         </Container>
